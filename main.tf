@@ -1,6 +1,6 @@
 module "functionapp" {
   source = "C:/Users/hp/OneDrive/Desktop/Terraform/functionapp"
-  client      = "vinod"
+  client      = "priya-vinod"
   location    = "Eastus2"
   environment = "Dev"
 }
